@@ -1,0 +1,11 @@
+{
+    "author" : "fjc",
+    "name" : "censorify",
+    "version" : "0.0.1",
+    "description" : "censors out words of text",
+    "main" : "censortext",
+    "dependencies" : {},
+    "engines" : {
+        "node" :"*"
+    }
+}
