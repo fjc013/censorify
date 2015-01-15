@@ -6,7 +6,7 @@
     "main" : "censortext",
     "repository" : {
         "type": "git",
-        "url" : "https://github.com/fjc013/censorify.git"
+        "url" : "https://github.com/fjc013/censorify"
     }, 
     "keywords" : [
         "censor",
